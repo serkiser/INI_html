@@ -28,3 +28,10 @@ nav a:hover {
 .nav-button:hover {
     background-color: #45a049; /* Verde oscuro al pasar el ratón */
 }
+.imagen-reducida {
+    width: 90%;       /* 90% del ancho del contenedor */
+    height: auto;     /* Altura proporcional */
+    /* Opcional: centrar la imagen */
+    display: block;
+    margin: 0 auto;
+}
